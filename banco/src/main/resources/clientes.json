@@ -1,0 +1,113 @@
+{
+  "empresas": [
+    {
+      "nombre": "Comercial",
+      "apellidoRazonSocial": "Del Sur S.A.",
+      "direccion": "Av. San Martin 1250, Buenos Aires",
+      "telefono": "1145678901",
+      "correo": "contacto@delsur.example",
+      "fechaAlta": "2024-01-15",
+      "razonSocial": "Comercial Del Sur S.A.",
+      "cuit": "30712345678",
+      "rubroActividadEmpresa": "Comercio",
+      "representante": "Laura Gomez"
+    },
+    {
+      "nombre": "Tecnologia",
+      "apellidoRazonSocial": "Andina S.R.L.",
+      "direccion": "Calle Belgrano 840, Mendoza",
+      "telefono": "2614567890",
+      "correo": "info@andina.example",
+      "fechaAlta": "2024-03-20",
+      "razonSocial": "Tecnologia Andina S.R.L.",
+      "cuit": "30723456789",
+      "rubroActividadEmpresa": "Tecnologia",
+      "representante": "Martin Perez"
+    },
+    {
+      "nombre": "Alimentos",
+      "apellidoRazonSocial": "Del Litoral S.A.",
+      "direccion": "San Martin 350, Rosario",
+      "telefono": "3414567890",
+      "correo": "administracion@litoral.example",
+      "fechaAlta": "2024-06-10",
+      "razonSocial": "Alimentos Del Litoral S.A.",
+      "cuit": "30734567890",
+      "rubroActividadEmpresa": "Alimentacion",
+      "representante": "Sofia Diaz"
+    }
+  ],
+  "personasFisicas": [
+    {
+      "nombre": "Ana",
+      "apellidoRazonSocial": "Lopez",
+      "direccion": "Sarmiento 540, Cordoba",
+      "telefono": "3514567890",
+      "correo": "ana.lopez@example.com",
+      "fechaAlta": "2024-02-05",
+      "dni": "30123456",
+      "fechaNacimiento": "1990-07-12",
+      "profesion": "Docente",
+      "ingresosDeclarados": 850000.0
+    },
+    {
+      "nombre": "Juan",
+      "apellidoRazonSocial": "Fernandez",
+      "direccion": "Mitre 1220, Buenos Aires",
+      "telefono": "1141234567",
+      "correo": "juan.fernandez@example.com",
+      "fechaAlta": "2024-04-18",
+      "dni": "28456789",
+      "fechaNacimiento": "1987-11-03",
+      "profesion": "Contador",
+      "ingresosDeclarados": 1200000.0
+    },
+    {
+      "nombre": "Valentina",
+      "apellidoRazonSocial": "Molina",
+      "direccion": "Rivadavia 760, Salta",
+      "telefono": "3874567890",
+      "correo": "valentina.molina@example.com",
+      "fechaAlta": "2024-08-22",
+      "dni": "32789123",
+      "fechaNacimiento": "1992-04-25",
+      "profesion": "Disenadora",
+      "ingresosDeclarados": 975000.0
+    }
+  ],
+  "premium": [
+    {
+      "nombre": "Carlos",
+      "apellidoRazonSocial": "Ramirez",
+      "direccion": "Avenida Colon 900, Cordoba",
+      "telefono": "3514987654",
+      "correo": "carlos.ramirez@example.com",
+      "fechaAlta": "2024-01-30",
+      "limiteCreditoEspecial": 2500000.0,
+      "ejecutivoDeCuenta": "Mariana Torres",
+      "beneficios": "Atencion prioritaria y descuentos en viajes"
+    },
+    {
+      "nombre": "Lucia",
+      "apellidoRazonSocial": "Castro",
+      "direccion": "Florida 430, Buenos Aires",
+      "telefono": "1149876543",
+      "correo": "lucia.castro@example.com",
+      "fechaAlta": "2024-05-12",
+      "limiteCreditoEspecial": 3200000.0,
+      "ejecutivoDeCuenta": "Diego Acosta",
+      "beneficios": "Asistencia exclusiva y reintegros"
+    },
+    {
+      "nombre": "Federico",
+      "apellidoRazonSocial": "Suarez",
+      "direccion": "Entre Rios 670, Rosario",
+      "telefono": "3414987654",
+      "correo": "federico.suarez@example.com",
+      "fechaAlta": "2024-09-01",
+      "limiteCreditoEspecial": 1800000.0,
+      "ejecutivoDeCuenta": "Paula Benitez",
+      "beneficios": "Acceso a salas VIP y soporte 24 horas"
+    }
+  ]
+}
